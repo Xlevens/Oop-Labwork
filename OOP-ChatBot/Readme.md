@@ -1,0 +1,1 @@
+An OOP's Concept based Python programmed Chatbot. The motive of the following chatbot to provide help service to the respected user. It detects specific words from the sentence or the query provided by the User and on the basis of that, it gives an automated answer pre-saved in the code.
